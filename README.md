@@ -4,7 +4,7 @@
 
 ## What it is
 
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an `index.html` and [deploy it on GitHub Pages](deploy.md).
+Cwicly is the first website builder to use the WordPress Gutenberg editor to its full potential. Unlike any other builder, your website is built natively within WordPress. With its responsive design build and thousands of ready-to-use templates and elements, nothing is stopping you from developing the perfect wesbite.
 
 See the [Quick start](quickstart.md) guide for more details.
 
