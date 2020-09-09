@@ -10,23 +10,22 @@ See the [Quick start](quickstart.md) guide for more details.
 
 ## Features
 
-- No statically built html files
-- Simple and lightweight
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE11
-- Support server-side rendering ([example](https://github.com/docsifyjs/docsify-ssr-demo))
+- Natively build with the Gutenberg Editor
+- Control every aspect of the block's design
+- Custom CSS & HTML code
+- Theme builder
+- Dynamic data for every block
+- ACF Pro
+- Clean code & extremely fast loading pages
 
 ## Examples
 
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see docsify in use.
+Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see Cwicly's incredible potential.
 
-## Donate
+## Buy now
 
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
+Ready to join the Cwicly community and build the website everybody has been waiting for? [Buy your Cwicly copy now](https://cwicly.com). :heart:
 
 ## Community
 
-Users and the development team are usually in the [Gitter chat room](https://gitter.im/docsifyjs/Lobby).
+Need help? Check out our [support page](https://cwicly.com) or join us on the [Facebook group page](https://cwicly.com).
