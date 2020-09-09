@@ -1,6 +1,6 @@
-## docsify
+## Cwicly
 
-> A magical documentation site generator.
+> The native WordPress Builder
 
 ## What it is
 
