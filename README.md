@@ -20,7 +20,7 @@ See the [Quick start](quickstart.md) guide for more details.
 
 ## Examples
 
-Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see Cwicly's incredible potential.
+Check out the [showcase](https://github.com/docsifyjs/awesome-docsify#showcase) to see Cwicly's incredible potential.
 
 ## Buy now
 
