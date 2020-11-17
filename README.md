@@ -1,6 +1,6 @@
 ## Cwicly
 
-> The native WordPress Builder
+> The definitive WordPress Builder
 
 ## What it is
 
